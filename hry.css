@@ -1,0 +1,209 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    background-image: linear-gradient(8deg, #851b1b 0%, #cef07f 100%);
+    height: 100vh;
+}
+
+header{
+    border: 3px solid  rgba(88, 52, 23, 0.63);
+    outline: 3px groove rgb(238, 186, 75);
+    height: 5%;
+    width: 12%;
+    margin: auto;
+    margin-top: 10px; 
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #46090985;
+    padding-top: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+.hlavni{
+    position: absolute;
+    border: 3px solid  rgba(88, 52, 23, 0.63);
+    outline: 3px groove rgb(238, 186, 75);
+    height: 5%;
+    width: 12%;
+    margin: auto;
+    top: 10px;
+    left: 1%;
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #46090985;
+    padding-top: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.hlavni:hover{
+    border: 2px solid rgba(88, 52, 23, 0.336);
+    background-color: #4609098e;
+}
+
+.hry{
+    position: absolute;
+    border: 3px solid  rgba(88, 52, 23, 0.63);
+    outline: 3px groove rgb(238, 186, 75);
+    height: 5%;
+    width: 12%;
+    margin: auto;
+    top: 10px;
+    left: 22.5%;
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #46090985;
+    padding-top: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+
+}
+.hry:hover{
+    border: 2px solid rgba(88, 52, 23, 0.336);
+    background-color: #4609098e;
+}
+
+.konicky{
+    position: absolute;
+    border: 3px solid  rgba(88, 52, 23, 0.63);
+    outline: 3px groove rgb(238, 186, 75);
+    height: 5%;
+    width: 12%;
+    margin: auto;
+    top: 10px;
+    right: 22.5%;
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #46090985;
+    padding-top: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.konicky:hover{
+    border: 2px solid rgba(88, 52, 23, 0.336);
+    background-color: #4609098e;
+}
+
+.vazba{
+    position: absolute;
+    border: 3px solid  rgba(88, 52, 23, 0.63);
+    outline: 3px groove rgb(238, 186, 75);
+    height: 5%;
+    width: 12%;
+    margin: auto;
+    top: 10px;
+    right: 1%;
+    font-size: 30px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #46090985;
+    padding-top: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.vazba:hover{
+    border: 2px solid rgba(88, 52, 23, 0.336);
+    background-color: #4609098e;
+}
+
+.tab{
+    border: 2px #851b1b solid;
+    text-align: left;
+    margin: auto;
+    width: 95%;
+    height: 85%;
+    margin-top: 30px;
+    background-color: #ab8b4f;
+    border-radius: 13px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 7px;
+}
+
+.nadpis{
+    font-size: 29px;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+}
+
+.gta{
+    position: absolute;
+    width: 300px;
+    top: 26.5%;
+    left: 3%;
+    border: solid 1px gray;
+
+}
+
+.fortnite{
+    position: absolute;
+    width: 300px;
+    height: 290px;
+    left: 3%;
+    bottom: 5%;
+    border: solid 1px gray;
+}
+
+.fortext{
+    position: absolute;
+    top: 59.5%;
+}
+
+.loltext{
+    position: absolute;
+    top: 18%;
+    left: 59%;
+}
+
+.lolko{
+    position: absolute;
+    width: 725px;
+    right: 3%;
+    top: 31%;
+    border: solid 1px gray;
+
+}
+
+.fngame{
+    position: absolute;
+    width: 400px;
+    left: 23%;
+    bottom: 6.8%;
+    border: solid 1px gray;
+
+}
+
+.gtagame{
+    position: absolute;
+    width: 450px;
+    top: 37.5%;
+    left: 23%;
+    border: solid 1px gray;
+
+}
+
+.text{
+    position: absolute;
+    bottom: 18%;
+    left: 59%;
+
+}
+
+.plocha{
+    position: absolute ;
+    bottom: 3.5%;
+    right: 11%;
+    width: 325px;
+    border: solid 1px gray;
+}
+
+
